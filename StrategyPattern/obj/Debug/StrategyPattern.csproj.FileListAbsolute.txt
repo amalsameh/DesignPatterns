@@ -1,0 +1,5 @@
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

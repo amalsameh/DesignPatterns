@@ -1,0 +1,6 @@
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\amal\documents\visual studio 2015\Projects\Design Patterns\Bridge\obj\Debug\Bridge.pdb
